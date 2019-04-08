@@ -7,8 +7,8 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
+* [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -16,6 +16,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
+  * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -24,7 +25,6 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -54,7 +54,7 @@
 
 ### Clojure
 
-* [4Clojure - Koans](https://www.4clojure.com)
+* [4Clojure - Koans](http://www.4clojure.com)
 * [Clojure Koans](http://clojurekoans.com)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
@@ -71,16 +71,16 @@
 * [Try Erlang](http://www.tryerlang.org)
 
 
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
-
-
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+
+
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go
@@ -140,6 +140,12 @@
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
+
+#### Operating systems
+
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
 
 ### Lisp
@@ -188,15 +194,9 @@
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
-### R
-
-* [Try R](http://tryr.codeschool.com)
-
-
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)

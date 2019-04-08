@@ -4,6 +4,7 @@
 * [C#](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Common Lisp](#common-lisp)
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
@@ -12,10 +13,14 @@
 * [Git](#git)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
+  * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
+  * [p5.js](#p5js)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -29,7 +34,6 @@
 
 ### Android
 
-* [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
 
@@ -42,13 +46,18 @@
 ### C++
 
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) (screencast)
-* [C++ STL ](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
+* [C++ STL](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
 * [CppCast](http://cppcast.com) (podcast)
 
 
-## Clojure
+### Clojure
 
 * [Parens of the Dead](http://www.parens-of-the-dead.com) (screencast)
+
+
+### Common Lisp
+
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) (screencast)
 
 
 ### CSS
@@ -64,12 +73,14 @@
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
+* [Super Data Science](https://www.superdatascience.com/podcast/) (podcast) 
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 
 
 ### Elixir
 
 * [Elixir Sips](http://elixirsips.com) - Some free (screencast)
+* [ElixirCasts](https://elixircasts.io) (screencast)
 * [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) (screencast)
 * [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) (screencast)
 * [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt) (screencast)
@@ -90,6 +101,7 @@
 ### Git
 
 * [GitMinutes](http://www.gitminutes.com) (podcast)
+* [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 
 ### Golang
@@ -111,6 +123,16 @@
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
 
 
+### Haskell
+
+* [The Haskell Cast](http://www.haskellcast.com) (podcast)
+
+
+### Java
+
+* [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+
+
 ### Javascript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
@@ -130,20 +152,32 @@
 * [Angular Air](https://angularair.com) (podcast)
 
 
+#### Elm
+
+* [Elm Town](https://elmtown.audio) (podcast)
+
+
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
 
 
-#### React.js
-
-* [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
-* [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
-
-
 #### Node.js
 
 * [Nodeup](http://nodeup.com) (podcast)
+* [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
+
+
+#### p5.js
+
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (screencast)
+
+
+#### React.js
+
+* [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
+* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
+* [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
 ### Kotlin
@@ -155,14 +189,15 @@
 ### Language Agnostic
 
 * [/dev/hell](http://devhell.info) (podcast)
-* [AppMasters](http://www.appmasters.co/podcast-home/) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
+* [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
 * [Coding Blocks](http://www.codingblocks.net) (podcast)
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) (podcast)
 * [CTRL+CLICK CAST](http://ctrlclickcast.com) (podcast)
 * [Developer On Fire](http://developeronfire.com) (podcast)
 * [Developer Tea](https://developertea.com) (podcast)
@@ -191,6 +226,7 @@
 * [The Cloudcast](http://www.thecloudcast.net) (podcast)
 * [The Cognicast](http://blog.cognitect.com/cognicast) (podcast)
 * [The Creative Coding Podcast](http://creativecodingpodcast.com) (podcast)
+* [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) (podcast)
 * [The Debug Log](http://thedebuglog.com) (podcast)
 * [The Hanselminutes podcast](http://hanselminutes.com) (podcast)
 * [The Path to Performance](https://pathtoperf.com) (podcast)
@@ -232,7 +268,6 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
-* [The Python Experience](http://python.madewithopinion.com) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
@@ -244,7 +279,6 @@
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
-* [ENVY LABS - Ruby5](https://ruby5.codeschool.com) (podcast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
 * [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)

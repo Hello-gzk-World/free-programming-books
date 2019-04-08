@@ -7,10 +7,12 @@
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Angular](#angular)
   * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
   * [Ember.js](emberjs)
@@ -26,7 +28,6 @@
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
-* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -41,7 +42,6 @@
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
@@ -76,11 +76,15 @@
 
 ### Git
 
-* [Apostila Git - UFPR](http://www.pet.est.ufpr.br/apostila/apostila_git.pdf) (PDF)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
 * [Pro Git](http://git-scm.com/book/pt-br/)
+
+
+### GO
+
+* [Go - hands on](https://github.com/go-br/estudos)
 
 
 ### Haskell
@@ -90,11 +94,9 @@
 
 ### HTML / CSS
 
-* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
-* [Performance WEB](http://www.webperf.com.br)
 
 
 ### Java
@@ -117,6 +119,11 @@
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
 
+#### Angular
+
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+
+
 #### Angular.js
 
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
@@ -132,7 +139,7 @@
 
 #### Ember.js
 
-* [Conceitos basicos do Ember.js ](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
+* [Conceitos basicos do Ember.js](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
 * [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
 
 
@@ -143,7 +150,6 @@
 
 #### Grunt
 
-* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Grunt | Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
 
@@ -178,6 +184,7 @@
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
+* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
 
 
 #### Vue.js
@@ -204,11 +211,6 @@
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
-### Perl
-
-* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
-
-
 ### PHP
 
 * [A semana PHP](http://asemanaphp.com.br)
@@ -225,6 +227,7 @@
 * [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
@@ -233,7 +236,7 @@
 
 #### Django
 
-* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
 ### RegEx
@@ -253,7 +256,7 @@
 ### Shell
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
-* [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 

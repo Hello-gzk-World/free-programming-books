@@ -15,6 +15,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
+* [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -105,6 +106,11 @@
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
 
+### .NET Framework
+
+* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+
+
 ### PHP
 
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
@@ -112,12 +118,11 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi gibi Düşünmek Python ile Öğrenme 2. Baskı](https://tekrei.github.io/other/bbgd_p/) - Allen B. Downey, Jeff Elkner and Chris Meyers
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 
-#### Django
+### Django
 
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
 
